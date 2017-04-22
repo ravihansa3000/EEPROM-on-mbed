@@ -1,0 +1,25 @@
+{
+  "name": "EEPROM-on-mbed",
+  "keywords": "eeprom, mbed, i2c",
+  "description": "I2C EEPROM library from 24C01 to 24C1025",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/kasperglobal/EEPROM-on-mbed"
+  },
+  "authors":
+  [
+    {
+      "name": "Bernard Borredon"
+    },
+    {
+      "name": "Akila Perera",
+      "email": "ravihansa3000@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "version": "0.0.1",
+  "frameworks": "mbed",
+  "platforms": "*",
+  "include": "src"
+}
